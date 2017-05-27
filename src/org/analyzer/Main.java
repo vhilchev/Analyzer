@@ -2,9 +2,6 @@ package org.analyzer;
 
 import javax.swing.*;
 
-/**
- * Created by vhilc on 5/25/2017.
- */
 public class Main {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Analyzer");
